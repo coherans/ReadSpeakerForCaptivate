@@ -28,7 +28,7 @@ Copier le répertoire asset/js dans Adobe\Adobe Captivate 9 x64\HTML\assets
 
 Paramétrage du service et personnalisation
 Modifier dans le script de HTML\assets\readspeaker.js le paramétrage de l’appel au service (en rouge) par les identifiants fournis par ReadSpeaker 
-app-eu.readspeaker.com/cgi-bin/rsent?customerid=8336&amp;lang=fr_fr&amp;voice=Thomas
+app-eu.readspeaker.com/cgi-bin/rsent?customerid=your_id&amp;lang=fr_fr&amp;voice=Thomas
 
 Remplacer la langue si besoin
 
