@@ -14,7 +14,6 @@ Principaux avantages :
 - Il n’est plus nécessaire de recourir à des enregistrements de voix fastidieux
 - Pas de stockage de fichier son donc un gain de stockage et de fluidité
 - Corrections sonores directement dans Captivate par la modification du texte
-- 
 
 
 Pré-requis
