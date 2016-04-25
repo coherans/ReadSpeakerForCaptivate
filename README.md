@@ -17,9 +17,9 @@ Principaux avantages :
 
 
 Pré-requis
-Bénéficier du service ReadSpeaker en ligne
-Déclaration d’URL auprès du support ReadSpeaker
-Une version d’Adobe Captivate 9
+- Bénéficier du service ReadSpeaker en ligne
+- Déclaration d’URL auprès du support ReadSpeaker
+- Une version d’Adobe Captivate 9
 
 Installation sur le client lourd Captivate :
 Ouvir le package ou fichier compressé
